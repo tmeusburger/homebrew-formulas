@@ -1,7 +1,7 @@
 # Documentation: https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/Formula-Cookbook.md
 #                http://www.rubydoc.info/github/Homebrew/homebrew/master/frames
 
-class RustRacer < Formula
+class RacerRust < Formula
   desc "Rust Racer"
   homepage "https://github.com/phildawes/racer/"
   url "https://github.com/phildawes/racer/archive/master.zip"
